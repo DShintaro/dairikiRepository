@@ -4,8 +4,8 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
 
-// これは練習のためのコメントです。
-
+// 縺薙ｌ縺ｯ邱ｴ鄙偵�縺溘ａ縺ｮ繧ｳ繝｡繝ｳ繝医〒縺吶�
+//kuwa comment add
 
 public class MainActivity extends Activity {
 
